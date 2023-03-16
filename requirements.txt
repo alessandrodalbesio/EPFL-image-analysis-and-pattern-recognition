@@ -1,3 +1,6 @@
 scikit-image
-numpy
 matplotlib
+ipykernel
+tabulate
+colorama
+opencv-python
