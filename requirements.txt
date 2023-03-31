@@ -1,6 +1,0 @@
-scikit-image
-matplotlib
-ipykernel
-tabulate
-colorama
-opencv-python
