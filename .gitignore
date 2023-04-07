@@ -160,7 +160,7 @@ cython_debug/
 #.idea/
 
 # Data folder
-lab-01-data
+data/lab-02-data
 
 # VSCode
 .vscode
