@@ -260,3 +260,4 @@ dmypy.json
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,linux,pycharm+all
 
 data/lab-*-data/*
+project/data_project
