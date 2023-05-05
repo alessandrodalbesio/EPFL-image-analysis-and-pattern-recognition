@@ -1,11 +1,5 @@
 numpy
 scipy
-scikit-image
 matplotlib
-jupyter
-scikit-learn
-opencv-python
 tabulate
-tqdm
-torch
-torchvision
+pillow
