@@ -4,4 +4,6 @@ matplotlib
 tabulate
 pillow
 opencv-python
-```
+pandas
+rich
+icecream
